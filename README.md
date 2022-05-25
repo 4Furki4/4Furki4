@@ -9,9 +9,9 @@ Some other hobbies:
 * Biking <3 
 * Vocabularies and etymology
 
-Skills: C# / .NET Core/ Unity
+Skills: C# / .NET Core/ Unity / HTML / CSS 
 
-- 🌱 I’m currently learning C#, .Net Core and Unity(for fun) 
+- 🌱 I’m currently learning C#, .Net Core (Web Applications and APIs) and Unity(for fun), learned HTML(basic), CSS(basic) and somewhat SQL.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/4Furki4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/furki4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Furki4_4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/muhammedcengiz1)  
