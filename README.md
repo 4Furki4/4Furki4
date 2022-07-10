@@ -8,7 +8,7 @@ It's all started just for fun but with keep learning coding, I realized that not
 * Playing video games (since I was 5 y.o and my fav type is survival)
 * Biking <3 
 * Vocabularies and etymology(on Turkish now)
-* Neuro Sciene
+* Neuroscience
 
 ### Skills
 - C# and .NET Core Web Applications/APIs 
