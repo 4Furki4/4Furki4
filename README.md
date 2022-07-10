@@ -9,12 +9,12 @@ Some other hobbies:
 * Biking <3 
 * Vocabularies and etymology
 
-_Skills:_
+__Skills:__
 - C# and .NET Core Web Applications/APIs 
 - Unity: I exprecienced somewhat 
 - FrontEnd: HTML, CSS(BootStrap) and JavaScript
 - SQL
-
+---------------------
 - 🌱 I’m currently learning C#, .Net Core (Web Applications and APIs) and Unity(for fun)
 - 😊 Goal: to be full stack web dev (currently learning .NET 6 Web Application and Client-Side features) independently.)
 
