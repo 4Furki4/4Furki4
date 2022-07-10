@@ -7,7 +7,7 @@ It's all started just for fun but with keep learning coding, I realized that not
 Some other hobbies: 
 * Playing video games (since I was 5 y.o)
 * Biking <3 
-* Vocabularies and etymology
+* Vocabularies and etymology(on Turkish now)
 
 __Skills:__
 - C# and .NET Core Web Applications/APIs 
