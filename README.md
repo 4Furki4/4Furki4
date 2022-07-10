@@ -15,8 +15,8 @@ __Skills:__
 - FrontEnd: HTML, CSS(BootStrap) and JavaScript
 - SQL
 ---------------------
-- 🌱 I’m currently learning C#, .Net Core (Web Applications and APIs) and Unity(for fun)
-- 😊 Goal: to be full stack web dev (currently learning .NET 6 Web Application and Client-Side features) independently.)
+___Last But Not Least - WHAT IS MY GOAL ?___
+- 😊 wanna be full stack web dev (currently learning .NET 6 Web Application and Client-Side features) independently. 🌱)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/4Furki4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/furki4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Furki4_4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/muhammedcengiz1)  
