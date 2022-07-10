@@ -15,7 +15,7 @@ It's all started just for fun but with keep learning coding, I realized that not
 - Unity: I exprecienced somewhat 
 - FrontEnd: HTML, CSS(BootStrap) and JavaScript
 - SQL
----------------------
+
 ## ___Last But Not Least - WHAT IS MY GOAL ?___
 - 😊 I really wanna be full stack web dev and solve my own problems that comes to my mind (currently learning .NET 6 Web Application and Client-Side features) independently. 🌱)
 
