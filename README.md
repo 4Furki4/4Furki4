@@ -14,7 +14,7 @@ It's all started just for fun but with keep learning coding, I realized that not
 - C# and .NET Core Web Applications/Services
 - EF Core and MSSQL
 - Unity: I exprecienced somewhat 
-- FrontEnd: HTML, CSS(BootStrap), JavaScript and Angular
+- FrontEnd: HTML, CSS(BootStrap), JavaScript, TypeScript and Angular
 
 ## ___Last But Not Least - WHAT IS MY GOAL ?___
    😊 I really wanna be a full stack web dev and solve my own problems that comes to my mind (currently learning .NET 7 Web Application and Client-Side features like Angular) independently. 🌱)
