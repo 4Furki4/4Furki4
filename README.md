@@ -15,7 +15,7 @@ It's all started just for fun but with keep learning coding, I realized that not
 - EF Core and MSSQL
 - Unity: I exprecienced somewhat 
 - FrontEnd: HTML, CSS(BootStrap), JavaScript, TypeScript and Angular
-
+- ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical)
 ## ___Last But Not Least - WHAT IS MY GOAL ?___
    😊 I really wanna be a full stack web dev and solve my own problems that comes to my mind (currently learning .NET 7 Web Application and Client-Side features like Angular) independently. 🌱)
 
@@ -23,4 +23,4 @@ It's all started just for fun but with keep learning coding, I realized that not
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](/https://www.linkedin.com/in/4furkancengiz4/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Furki4_4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/muhammedcengiz1)  
-![My Stats](https://github-readme-stats.vercel.app/api?username=4furki4&show_icons=true&theme=radical) ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=4furki4&show_icons=true&theme=radical) 
