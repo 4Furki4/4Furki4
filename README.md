@@ -23,4 +23,4 @@ It's all started just for fun but with keep learning coding, I realized that not
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](/https://www.linkedin.com/in/4furkancengiz4/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Furki4_4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/muhammedcengiz1)  
-![My Stats](https://github-readme-stats.vercel.app/api?username=4furki4&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=4furki4&show_icons=true&theme=radical) ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical)
