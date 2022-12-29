@@ -2,7 +2,7 @@
 ## I've been learning Web Developer by myself for a year
 ### GitHub Stats
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6)
-![My Stats](https://github-readme-stats.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&hide=prs,contribs) 
+![My Stats](https://github-readme-stats.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&hide=prs,contribs&card_width=400px&custom_title=Furkan%27s%20Github%20Stats) 
 ## Here's My Story
 It's all started just for fun but with keep learning coding, I realized that not only can I have just fun, also I can make projects in my mind for my hobies and find a gateaway to find job without having bachelor's degree from Turkish Universities. Beginning of my coding experience, I had no goal and that's why I left coding several times. One of my hobies is exploring new archaic words in Turkish. TDK Dictionary is the only way to learn right definitions of the words and it has outdated website. I instinctively realized that this must be my goal. So to speak, I just don't want to make money from coding, I want to serve my knowledge to benefits of society. This is succinctly who I am :)
 
