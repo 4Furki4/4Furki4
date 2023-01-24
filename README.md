@@ -1,5 +1,5 @@
 # Hi there 👋, It's Furkan(20)
-## I've been learning Web Development by myself for a year
+## I've been learning Web Development by myself for about two years
 ### GitHub Stats
 ![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6)
 ![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&hide=prs,contribs&card_width=400px&custom_title=Furkan%27s%20Github%20Stats) 
@@ -13,10 +13,11 @@
 * Neuroscience
 
 ### Skills
-- C# and .NET Core Web Applications/Services
+- C# and .NET Core Web Applications/Services (I really love APIs and wanna speciliaze myself in it)
 - EF Core and MSSQL 
 - Unity: I exprecienced somewhat 
-- FrontEnd: HTML, CSS(BootStrap), JavaScript, TypeScript and Angular
+- FrontEnd: HTML, CSS (BootStrap), JavaScript, TypeScript and Angular
+- Docker (Basic)
 --------------------------------
 
 ## ___Last But Not Least - WHAT IS MY GOAL ?___
