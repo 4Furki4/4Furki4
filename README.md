@@ -19,18 +19,19 @@
 
 ### Skills
 - C# and .NET Core Web Applications/Services (I really love APIs and wanna speciliaze myself in it)
-- EF Core and MSSQL 
+- EF Core, MySQL, MSSQL and Redis
 - Unity: I exprecienced somewhat 
 - FrontEnd: HTML, CSS (BootStrap), JavaScript, TypeScript and Angular
 - Docker (Basic)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,unity)](https://skillicons.dev)
 --------------------------------
 
 ## ___Last But Not Least - WHAT IS MY GOAL ?___
    😊 I really wanna be a full stack web dev and solve my own problems that comes to my mind (currently learning .NET 7 Web Application and Client-Side features like Angular) independently. 🌱)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/4Furki4)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/4furkancengiz4/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Furki4_4)
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/4furkancengiz4/)
+[<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/Furki4_4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/muhammedcengiz1)  
 
 
