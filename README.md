@@ -1,9 +1,10 @@
 # Hi there 👋, It's Furkan(20)
 ## I've been learning Web Development by myself for about two years
 ### GitHub Stats
-Solarized dark             |  Solarized Ocean         | Solarized Ocean
-:-------------------------:|:-------------------------:|:-------------------------:
-![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)  |  ![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=40&hide=prs,contribs&card_width=300px&custom_title=Furkan%27s%20Github%20Stats&count_private=true&hide_border=true&border_radius=20)  | [![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)\
+![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&card_width=500px&hide=prs,contribs&custom_title=Furkan%27s%20Github%20Stats&count_private=true&hide_border=true&border_radius=20)
+![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)
+
 
 
 
