@@ -6,7 +6,7 @@
 ![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)
 [![Furkan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=4furki4&theme=github-compact&hide_border=true&radius=16&bg_color=151515&custom_title=My%20Activity%20Graph%20^_^&title_color=26a641)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=4furki4&theme=gruvbox&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Here's My Story
 > It's all started just for fun but with keep learning coding, I realized that not only can I have just fun, also I can make projects in my mind for my hobies and find a gateaway to find job without having bachelor's degree from Turkish Universities. Beginning of my coding experience, I had no goal and that's why I left coding several times. One of my hobies is exploring new archaic words in Turkish. TDK Dictionary is the only way to learn right definitions of the words and it has outdated website. I instinctively realized that this must be my goal. So to speak, I want to serve my knowledge to benefits of society. This is succinctly who I am :)
