@@ -9,7 +9,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=4furki4&theme=gruvbox&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Here's My Story
-> It's all started just for fun but with keep learning coding, I realized that not only can I have just fun, also I can make projects in my mind for my hobies and find a gateaway to find job without having bachelor's degree from Turkish Universities. Beginning of my coding experience, I had no goal and that's why I left coding several times. One of my hobies is exploring new archaic words in Turkish. TDK Dictionary is the only way to learn right definitions of the words and it has outdated website. I instinctively realized that this must be my goal. So to speak, I want to serve my knowledge to benefits of society. This is succinctly who I am :)
+>Hello there!
+>
+>I'm currently learning web development: both backend and frontend. I don't have any background like a degree unrelated to development. My web development adventure started as a hobby, then became the reason why I dropped out of university. I actually wanted to make my games using Unity. However, I decided to build a new Turkish online dictionary because of the downsides of the official dictionary of TDK. But why would I build it ? It's because I love the meanings and etymologies of Turkish words. I kept learning to build it, then realized that web development becomes beyond a hobby because I mostly spend my whole time learning new things for it.
+The way how I started learning web development is kind of different from the convention. I specialized in backend first, because I already had enough C# knowledge for building APIs using .NET. I didn't have the plans called "roadmaps". I just keep learning what I need for building the dictionary. At some point, I decided to learn client-side too. I didn't expect that I like it that much. I didn't even expect that I'd like web development that much !
+In this adventure, I made mistakes, and I will. I learned making mistakes is not what I should be afraid of. What I should be afraid of is being afraid of making mistakes. Being afraid of it just means that I might not like what I do.
+I have a goal for 2023. I'm trying to fill my whole contribution table in GitHub. It kinda shows how hard I work. You can see it scrolling down.
+Last but not least, I do love being helpful. I've been learning the web with the help of those who are teaching it voluntarily. Contact me if you need any help or anything you'd like to say.
 
 ### Some other hobbies: 
 * Playing video games since I was 5 y.o
@@ -26,12 +32,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,net,angular,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,unity)](https://skillicons.dev)
 --------------------------------
-
-## ___Last But Not Least - WHAT IS MY GOAL ?___
-   😊 I really wanna be a full stack web dev and solve my own problems that comes to my mind (currently learning .NET 7 Web Application and Client-Side features like Angular) independently. 🌱)
+### My Social Media Accounts
 
 [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/4furkancengiz4/)
 [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/Furki4_4)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/muhammedcengiz1)  
 
 
