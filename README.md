@@ -1,5 +1,5 @@
 # Hi there 👋, It's Furkan(20)
-## I've been learning Web Development by myself for about two years
+## I've been learning Web Development by myself for about a year
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)\
 ![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&card_width=300px&hide=prs,contribs&custom_title=Furkan%27s%20Github%20Stats&count_private=true&hide_border=true&border_radius=20)
