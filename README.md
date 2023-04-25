@@ -35,4 +35,5 @@ Last but not least, I do love being helpful. I've been learning the web with the
 ### My Social Media Accounts
 
 [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/4furkancengiz4/)
+[<img src='https://skillicons.dev/icons?i=medium' alt='medium' height='40'>](https://medium.com/@Furki4_4)
 
