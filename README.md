@@ -12,8 +12,11 @@
 >Hello there!
 >
 >I'm currently learning web development: both backend and frontend. I don't have any background like a degree unrelated to development. My web development adventure started as a hobby, then became the reason why I dropped out of university. I actually wanted to make my games using Unity. However, I decided to build a new Turkish online dictionary because of the downsides of the official dictionary of TDK. But why would I build it ? It's because I love the meanings and etymologies of Turkish words. I kept learning to build it, then realized that web development becomes beyond a hobby because I mostly spend my whole time learning new things for it.
+>
+> \
 The way how I started learning web development is kind of different from the convention. I specialized in backend first, because I already had enough C# knowledge for building APIs using .NET. I didn't have the plans called "roadmaps". I just keep learning what I need for building the dictionary. At some point, I decided to learn client-side too. I didn't expect that I like it that much. I didn't even expect that I'd like web development that much !
-In this adventure, I made mistakes, and I will. I learned making mistakes is not what I should be afraid of. What I should be afraid of is being afraid of making mistakes. Being afraid of it just means that I might not like what I do.
+In this adventure, I made mistakes, and I will. I learned making mistakes is not what I should be afraid of. What I should be afraid of is being afraid of making mistakes. Being afraid of it just means that I might not like what I do. \
+\
 I have a goal for 2023. I'm trying to fill my whole contribution table in GitHub. It kinda shows how hard I work. You can see it scrolling down.
 Last but not least, I do love being helpful. I've been learning the web with the help of those who are teaching it voluntarily. Contact me if you need any help or anything you'd like to say.
 
