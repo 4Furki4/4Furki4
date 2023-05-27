@@ -30,8 +30,9 @@ Last but not least, I do love being helpful. I've been learning the web with the
 - C# and .NET Core Web Applications/Services (I really love APIs and wanna speciliaze myself in it)
 - EF Core, MySQL, MSSQL and Redis
 - Unity: I exprecienced somewhat 
-- FrontEnd: HTML, CSS (BootStrap), JavaScript, TypeScript and Angular
+- FrontEnd: HTML, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript and Angular (React coming soon :)
 - Docker (Basic)
+- SignalR
 
 [![My Skills](https://skillicons.dev/icons?i=cs,net,angular,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,unity)](https://skillicons.dev)
 --------------------------------
