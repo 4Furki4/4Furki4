@@ -12,13 +12,6 @@
 >Hello there!
 >
 >I'm currently learning web development: both backend and frontend. I don't have any background like a degree unrelated to development. My web development adventure started as a hobby, then became the reason why I dropped out of university. I actually wanted to make my games using Unity. However, I decided to build a new Turkish online dictionary because of the downsides of the official TDK dictionary. But why would I build it ? It's because I love the meanings and etymologies of Turkish words. I kept learning to build it, then realized that web development becomes beyond a hobby because I mostly spend my whole time learning new things for it.
->
-> \
-The way how I started learning web development is kind of different from the convention. I specialized in backend first, because I already had enough C# knowledge for building APIs using .NET. I didn't have the plans called "roadmaps". I just keep learning what I need for building the dictionary. At some point, I decided to learn client-side too. I didn't expect that I like it that much. I didn't even expect that I'd like web development that much !
-In this adventure, I made mistakes, and I will. I learned making mistakes is not what I should be afraid of. What I should be afraid of is being afraid of making mistakes. Being afraid of it just means that I might not like what I do. \
-\
-I have a goal for 2023. I'm trying to fill my whole contribution table in GitHub. It kinda shows how hard I work. You can see it scrolling down.
-Last but not least, I do love being helpful. I've been learning the web with the help of those who are teaching it voluntarily. Contact me if you need any help or anything you'd like to say.
 
 ### Some other hobbies: 
 * Playing video games since I was 5 y.o
@@ -27,14 +20,15 @@ Last but not least, I do love being helpful. I've been learning the web with the
 * Neuroscience
 
 ### Skills
-- C# and .NET Core Web Applications/Services (I really love APIs and wanna speciliaze myself in it)
-- EF Core, MySQL, MSSQL and Redis
-- Unity: I exprecienced somewhat 
-- FrontEnd: HTML, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript and Angular (React coming soon :)
+- C# and .NET Core Web Applications/Services (I really love APIs and wanna specialize in them)
+- EF Core, MySQL, MSSQL, Redis, and MongoDB
+- Unity: I experienced somewhat 
+- FrontEnd: HTML, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript
+  - Frameworks: Angular and Next.js
 - Docker (Basic)
 - SignalR
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,react,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,nextjs,react,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb)](https://skillicons.dev)
 --------------------------------
 ### My Social Media Accounts
 
