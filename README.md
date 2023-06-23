@@ -34,7 +34,7 @@ Last but not least, I do love being helpful. I've been learning the web with the
 - Docker (Basic)
 - SignalR
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,react,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,react,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb)](https://skillicons.dev)
 --------------------------------
 ### My Social Media Accounts
 
