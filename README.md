@@ -1,5 +1,5 @@
 # Hi there 👋, It's Furkan(20)
-## I've been learning Web Development by myself for about a year
+## I have been self-teaching web development for approximately one year !
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)\
 ![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&card_width=300px&hide=prs,contribs&custom_title=Furkan%27s%20Github%20Stats&count_private=true&hide_border=true&border_radius=20)
@@ -11,7 +11,7 @@
 ## Here's My Story
 >Hello there!
 >
->I'm currently learning web development: both backend and frontend. I don't have any background like a degree unrelated to development. My web development adventure started as a hobby, then became the reason why I dropped out of university. I actually wanted to make my games using Unity. However, I decided to build a new Turkish online dictionary because of the downsides of the official TDK dictionary. But why would I build it ? It's because I love the meanings and etymologies of Turkish words. I kept learning to build it, then realized that web development becomes beyond a hobby because I mostly spend my whole time learning new things for it.
+>I am currently pursuing web development, with a focus on both backend and frontend. Despite not having a background in this field or a degree, I started this journey as a hobby and it quickly became my passion. In fact, I even dropped out of university to pursue it further. My initial plan was to create games using Unity, but I ended up building a new Turkish online dictionary due to my love for the meanings and etymologies of Turkish words. I continued to learn and work on it, and soon web development became more than just a hobby, as I found myself dedicating most of my time to learning new skills and techniques.
 
 ### Some other hobbies: 
 * Playing video games since I was 5 y.o
