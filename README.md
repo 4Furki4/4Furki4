@@ -1,12 +1,12 @@
 # Hi there 👋, It's Furkan(20)
 ## I have been self-teaching web development for approximately one year !
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)\
-![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4furki4&show_icons=true&theme=radical&line_height=30&card_width=300px&hide=prs,contribs&custom_title=Furkan%27s%20Github%20Stats&count_private=true&hide_border=true&border_radius=20)
+[![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 ![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)
+
 [![Furkan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4furki4&theme=github-compact&hide_border=true&radius=16&bg_color=151515&custom_title=My%20Activity%20Graph%20^_^&title_color=26a641)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4furki4&theme=gruvbox&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=4furki4&theme=gruvbox&margin-w=50&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Here's My Story
 >Hello there!
