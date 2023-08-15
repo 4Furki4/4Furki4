@@ -28,7 +28,7 @@
 - Docker (Basic)
 - SignalR
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,nextjs,react,ts,js,jquery,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb)](https://skillicons.dev)
 --------------------------------
 ### My Social Media Accounts
 
