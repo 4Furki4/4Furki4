@@ -20,15 +20,14 @@
 * Neuroscience
 
 ### Skills
-- C# and .NET Core Web Applications/Services (I really love APIs and wanna specialize in them)
-- EF Core, MySQL, MSSQL, Redis, and MongoDB
-- Unity: I experienced somewhat 
+- Backend: C# .NET Core Web API and Node.js (Express.js) (I really love APIs and wanna specialize in them)
 - FrontEnd: HTML, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript
   - Frameworks: Angular and Next.js
+- Database and ORMs: EF Core, Prisma, Postgres, MySQL, MSSQL, Redis, and MongoDB 
 - Docker (Basic)
-- SignalR
+- SignalR 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,angular,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,nodejs,expressjs,prisma,angular,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,mysql,postgres,mongodb)](https://skillicons.dev)
 --------------------------------
 ### My Social Media Accounts
 
