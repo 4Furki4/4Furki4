@@ -20,15 +20,14 @@
 * Neuroscience
 
 ### Skills
-- Backend: C# .NET Core Web API and Node.js (Express.js) (I really love APIs and wanna specialize in them)
+- Backend: C# .NET Core Web API and Express.js, Nginx
 - FrontEnd: HTML, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript
   - Frameworks: Angular and Next.js
-- Database and ORMs: EF Core, Prisma, Postgres, MySQL, MSSQL, Redis, and MongoDB 
-- Docker (Basic)
-- SignalR 
+- Database and ORMs: EF Core, Drizzle, PostgreSQL Redis, and MongoDB 
+- Docker
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,nodejs,expressjs,prisma,angular,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,nodejs,expressjs,prisma,angular,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,postgres,mongodb,nginx)](https://skillicons.dev)
 --------------------------------
 ### My Social Media Accounts
 
-[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/4furkancengiz4/)
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
