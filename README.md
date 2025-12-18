@@ -1,5 +1,5 @@
-# Hi there 👋, It's Furkan(21)
-## I have been self-teaching web development for approximately one year !
+# Hi there 👋, It's Furkan
+## A regular dev who loves tech
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=4furki4&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 ![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4furki4&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)
